@@ -1,0 +1,31 @@
+ID_Concepto,Cve_Concepto,Numero_Concepto,Concepto
+1,cto_noc,"1  ",Cuartos Noche
+2,num_per,"2  ",Personas
+3,num_adu,"3  ",Adultos
+4,num_meg,"4  ",Men Gra
+5,num_men,"5  ",Menores
+6,num_inf,"6  ",Infantes
+7,num_jun,"7  ",Juniors
+10,Ingresos,"10 ",Ingresos Tratamientos
+11,Ventas,"11 ",Ingresos Retail
+30,Costos_Ope,"11 ",Costos de Operacion
+13,,"13 ",Total Comapañeros
+14,Costo_Nom,"14 ",Costo Nomina
+15,%_Rotacion,"15 ",Porcentaje de Rotacion
+16,PlanGem,"16 ",Plan GEM
+21,Ingresos,"21 ",Ingresos
+22,Costos_Gastos,"22 ",Costos y Gastos
+23,Imp_GOP,"23 ",Importe GOP
+24,%_GOP,"24 ",Porcentaje GOP
+25,Imp_EBITDA,"25 ",Importe EBITDA
+26,%_EBITDA,"26 ",Porcentaje EBITDA
+27,Dias_CXC,"27 ",Dias CXC
+28,Costo_A&B,"28 ",Costo A&B
+29,Costo_Eneg,"29 ",Costo Energético
+35,ISC,"35 ",ISC
+36,ISC,"36 ",ISC A&B
+37,ISC,"37 ",ISC Recepción
+38,ISC,"38 ",ISC Animación
+39,ISC,"39 ",ISC Habitaciones
+40,ISC,"40 ",ISC Bell Boys
+41,ISC,"41 ",ISC Eventos
